@@ -1,3 +1,5 @@
+# STOP! The official Copilot repos are now at [https://github.com/Copilot-Language/](https://github.com/Copilot-Language).
+
 Overview
 ========
 [copilot-libraries](http://hackage.haskell.org/package/copilot-libraries)
